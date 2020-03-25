@@ -118,7 +118,7 @@ p{
 .servicos{
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 	grid-gap: 30px;
 	max-width: 100%;
 	margin-top: 40px;
@@ -410,7 +410,7 @@ header.active ul{
 }
 header.active ul li a{
 	margin:5px 0;
-	font-size: 55px;
+	font-size: 53px;
 }
 header .logo,
 header ul li a{
@@ -459,7 +459,7 @@ header ul li a{
 .servicos{
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 	grid-gap: 40px;
 	max-width: 100%;
 	margin-top: 60px;
